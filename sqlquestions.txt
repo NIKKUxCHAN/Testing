@@ -10,3 +10,5 @@ insert into tablename values(),(),()
 7)what is the total amount of petrol in volume sold by every distributor
 8)query to print details of year between 2012-2017
 9)query to fetch the count of each distributor name.
+
+Push nadakko?
